@@ -45,3 +45,12 @@ $ gradle build
 $ gradle jettyRun
 
 ```
+
+###浏览器访问：
+[http://localhost:3000/hello/1](http://localhost:3000/hello/1)
+
+`{"gender":"female","name":"Bulma","id":1}`
+
+[http://localhost:3000/hello/2](http://localhost:3000/hello/2)
+
+`{"gender":"male","name":"Vegeta","id":2}`
